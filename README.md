@@ -1,5 +1,7 @@
 # currency-converter
 
+При создании проекта использованы Vue 2, Nuxt.js и Vuetify.
+
 ## Build Setup
 
 ```bash
